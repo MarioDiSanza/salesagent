@@ -1,5 +1,5 @@
 # salesagent
-Automating process across D&amp;B, HubSpot, etc.
+Automating process across D&amp;B, HubSpot for sales.
 
 Current Objectives:
 Cross reference internal POS and HubSpot for existing contact info/existing customer
